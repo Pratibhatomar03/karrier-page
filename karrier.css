@@ -1,0 +1,19 @@
+.selection {
+  display: block;
+  margin-left: 100px;
+  width: 300px;
+}
+h1 {
+  text-align: center;
+  color: greenyellow;
+}
+.photo {
+  margin-top: 40px;
+  margin-right: 10px;
+  margin-left: 20px;
+}
+
+h2,
+h3 {
+  text-align: center;
+}
